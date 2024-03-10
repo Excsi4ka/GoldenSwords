@@ -1,0 +1,20 @@
+{
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "required": true,
+  "target": "@env(DEFAULT)",
+  "package": "com.excsi.mixins",
+  "refmap": "${mixin_refmap}",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "MixinAttackDamageHandler",
+    "MixinCreatureUtil",
+    "MixinEventHandlerRunic"
+  ],
+  "client": [
+  ],
+  "server": [
+  ]
+}

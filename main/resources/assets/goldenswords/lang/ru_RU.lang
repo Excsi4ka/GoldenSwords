@@ -1,0 +1,16 @@
+item.goldenclaymore.name=§6Золотой двуручник
+item.lvlup.name=§6Творческий талисман прокачки
+item.debugscroll.name=Свиток информации
+goldenswords.sword.description1=§eФирменное оружие Золотых Мечей
+goldenswords.sword.description2=§eПробивает защиту оборотней
+emptyline=
+entity.goldenswords.goldenswordknight.name=Рыцарь Золотых Мечей
+goldenswords.ring.holdshift=§6Зажмите §aSHIFT §6для деталей
+goldenswords.level.set=Уровень Золотого Меча установлен на %s
+goldenswords.shield.set=Золотой покров восстановлен. Текущая прочность %s
+goldenswords.key1=Парирование ударов
+goldenswords.key2=Призыв союзников
+goldenswordskeybinds=Способности Золотых Мечей
+goldenswords.reflect.active=%s: Моя защита безупречна! Тебе не пробиться сквозь неё!
+goldenswords.oncooldown=Вы еще не готовы это использовать
+goldenswords.potion=Бремя Стража
