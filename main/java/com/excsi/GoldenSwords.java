@@ -36,7 +36,6 @@ public class GoldenSwords
 {
     public static final String MODID = "goldenswords";
     public static Item ItemGoldenClaymore;
-    public static Item ItemLvlUp;
     public static Potion KnightsBurden;
     public static Item ItemDebugStick;
 
